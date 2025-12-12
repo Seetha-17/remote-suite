@@ -30,6 +30,6 @@ Collaboration Tools: Features like integrated chat, session recording, and multi
 
 HERE ARE THE LINKS FOR APP
 
-FRONTEND:
+FRONTEND:https://cogn-edge-teams-front.vercel.app/
 
-BACKEND:
+BACKEND:https://cognedgeteams-back.onrender.com
